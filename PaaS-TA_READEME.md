@@ -3,7 +3,7 @@
 $ vi src/uaa/dependencies.gradle
 ```
 
-// Versions we're overriding from the Spring Boot Bom
+// Versions we're overriding from the Spring Boot Bom<br>
 ext["mariadb.version"] = "2.3.0"
 	>>>   ext["mariadb.version"] = "2.5.1"
 
